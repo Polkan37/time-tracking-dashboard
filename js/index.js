@@ -31,7 +31,7 @@ const DATA = fetch('./data.json')
                             </div>
                         </div>
                         <div class="details__text">
-                            <h2 class="time">$${time}</h2>
+                            <h2 class="time">${time}</h2>
                             <p class="previous">${prevTime}</p>
                         </div>
                     </div>
